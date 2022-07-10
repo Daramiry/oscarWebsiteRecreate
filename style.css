@@ -1,0 +1,49 @@
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: left;
+    margin: auto;
+    color: snow;
+    align-content: center;
+    font-family: sans-serif;
+    text-align: left;
+}
+
+header {
+display: flex;
+justify-content: space-betwwen;
+flex-direction: row;
+color: snow;
+font-size: larger;
+font-family: sans-serif;
+display: flex;
+background-color: #100000;
+}
+
+nav {
+    display: inline;
+    position: relative;
+    bottom: 5em;
+}
+
+img {
+    position: fixed;
+    top: 10px;
+    z-index: -1;
+}
+
+h4 {
+    text-align: right;
+    position: relative;
+    bottom: 2.6em;
+    right: 7em;
+    color: white;
+}
+
+h5 {
+text-align: right;
+position: relative;
+bottom: 6em;
+color: white;
+}
